@@ -36,7 +36,7 @@ const User = mongoose.model("User", userSchema);
 // ==============================
 // 💼 JOB MODEL
 // ==============================
-const Job = require("./models/Job");
+const Job = require("./models/job");
 
 // ==============================
 // 🔐 SIGNUP
